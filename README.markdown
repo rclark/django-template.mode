@@ -6,7 +6,7 @@ This mode provides syntax coloring for the Django Template language in the Panic
 Installation in Panic Coda
 --------------------------
 
-Download and unpack either the ZIP or TAR version of the Django-Template mode. Navigate to the Coda application (probably in your Applications directory). Right click and choose 'Show Package Contents'. This will expand the Coda application package. Navigate to `Contents/Resources/` and manually copy the django-template.mode file into this directory.
+Download and unpack either the ZIP or TAR version of the Django-Template mode. Manually copy the Django-Template.mode file into `~/Library/Application\ Support/Coda\ 2/Modes/` (you can navigate to this directory by opening a Finder window, navigating to your user account's Home folder and then preceding into Library > Application Support > Coda 2 > Modes).
 
 Miscellaneous Files
 -------------------
