@@ -9,11 +9,11 @@
 	<key>NSHumanReadableCopyright</key>
 	<string>©2012 Joe Bergantine</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.0</string>
+	<string>3.0.1</string>
 	<key>CFBundleVersion</key>
-	<string>3.0</string>
+	<string>3.0.1</string>
 	<key>CFBundleGetInfoString</key>
-	<string>3.0, Copyright ©2010-2012 Joe Bergantine</string>
+	<string>3.0.1, Copyright ©2010-2012 Joe Bergantine</string>
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleInfoDictionaryVersion</key>
